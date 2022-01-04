@@ -3,3 +3,5 @@ Aprendiendo como usar profesionalmente Git y Github
 Actual mente tengo 28 años
 
 Mi nombre es: Carlos Arguinzones
+
+Me estoy convirtiendo en un desarrollador Profesional
